@@ -12,4 +12,4 @@
   
 - [事件相机相关](https://github.com/QuartzYan/QuartzNote/tree/master/blogs/event_camera)
   - [DAVIS346事件相机上手测试](https://github.com/QuartzYan/QuartzNote/blob/master/blogs/event_camera/DAVIS346%E4%B8%8A%E6%89%8B%E6%B5%8B%E8%AF%95.md)
-  -[事件相机的标定](https://github.com/QuartzYan/QuartzNote/blob/master/blogs/event_camera/%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E6%A0%87%E5%AE%9A.md)
+  - [事件相机的标定](https://github.com/QuartzYan/QuartzNote/blob/master/blogs/event_camera/%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E6%A0%87%E5%AE%9A.md)
