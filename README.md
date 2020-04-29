@@ -1,7 +1,6 @@
 # QuartzNote
 
-## 说明
-
+若需转载，请留言征得本人同意。请勿随意转载。
 
 ## 目录
 - [Ubuntu相关](https://github.com/QuartzYan/QuartzNote/blob/master/blogs/Ubuntu/)
