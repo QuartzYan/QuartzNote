@@ -23,4 +23,4 @@ sudo apt-get install dconf-editor
 - 安装VNC Viewer，打开[下载地址](https://www.realvnc.com/en/connect/download/viewer/)，选择合适的版本下载安装。
 - 安装完成后，打开VNC Viewer，新建一个连接，输入目标主机的IP和第一步中设置的密码即可。
 
-![](https://github.com/QuartzYan/QuartzNote/raw/master/images/20200729/image_20200729_03.png)
+![](https://github.com/QuartzYan/QuartzNote/raw/master/images/20200729/image_20200729_03.PNG)
